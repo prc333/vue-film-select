@@ -1,0 +1,21 @@
+{
+    "presets": [
+        ["env", {
+            "modules": false
+        }],
+        "stage-0"
+    ],
+    "plugins": [
+        "transform-object-rest-spread",
+        "syntax-object-rest-spread", ["component", [{
+            "libraryName": "element-ui",
+            "styleLibraryName": "theme-chalk"
+        }]],
+        ["transform-runtime", {
+            "helpers": false,
+            "polyfill": false,
+            "regenerator": true,
+            "moduleName": "babel-runtime"
+        }]
+    ]
+}

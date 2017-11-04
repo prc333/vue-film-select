@@ -1,0 +1,71 @@
+{
+    "movies": {
+        "list": [{
+            "id": "01233",
+            "name": "全球风暴",
+            "ename": "Geostorm",
+            "duringTime": "109分钟",
+            "startTime": "2017-10-27",
+
+            "pic": "http://p1.meituan.net/movie/ceca5272db49154554f96829886f175a4555828.jpg@160w_220h_1e_1c",
+            "bigPic": "http://p1.meituan.net/movie/ceca5272db49154554f96829886f175a4555828.jpg@464w_644h_1e_1c",
+            "score": 8.7,
+            "scorePeople": 94991,
+            "piaoFang": "3.15",
+            "piaoFangDanWei": "亿",
+            "jieShao": "本片讲述了一系列突如其来的自然灾害威胁地球安危，于是全世界的领导者们通力合作，创造了一个复杂的气象卫星网络来控制天气，保障人民安全。然而这个卫星网络却出了问题——原本应该保护地球的系统开始攻击地球，一场席卷整个世界、摧毁一切的灭世浩劫从天而降……",
+            "daoYan": {
+                "name": "迪安· 德夫林",
+                "pic": "http://p1.meituan.net/movie/a4299b82e258216744e0c00db2252fe780886.jpg@128w_170h_1e_1c"
+
+            },
+            "yanYuan": [{
+                "name": "杰拉德·巴特勒",
+                "pic": "http://p0.meituan.net/movie/78cc2344d2ef7d19db3f5677d7f5d3d9120314.jpg@128w_170h_1e_1c"
+            }, {
+                "name": "吉姆·斯特吉斯",
+                "pic": "http://p0.meituan.net/movie/d8b0d1fb58b6eff31dba57e969c9df4c153354.jpg@128w_170h_1e_1c"
+            }, {
+                "name": "艾比·考尼什",
+                "pic": "http://p1.meituan.net/movie/ba9949a1fe268ae60ff877e030dcfb09167465.jpg@128w_170h_1e_1c"
+            }, {
+                "name": "亚历山德拉·玛",
+                "pic": "http://p1.meituan.net/movie/513378dfcf61e7bbd47f11a884a523a359051.jpg@128w_170h_1e_1c"
+            }],
+            "tuJi": [{
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }, {
+                "picurl": "http://p1.meituan.net/mmdb/39b9d8c87dcc63d0c27a50eede1c0ad4271093.jpg@106w_106h_1e_1c"
+            }],
+            "type": ["动作", "惊悚", "灾难"],
+            "section": "美国"
+        }, {
+            "id": "01243",
+            "name": "羞羞的铁拳",
+            "pic": "http://p0.meituan.net/movie/62e854fcfdae277751c3bae23ea110aa131670.jpg@160w_220h_1e_1c",
+            "score": 9.1,
+            "type": ["喜剧", "爱情"],
+            "section": "大陆"
+        }]
+    }
+}

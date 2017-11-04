@@ -1,0 +1,97 @@
+{
+    "cinemas": {
+        "list": [{
+            "id": "98786",
+            "name": "泛影城(京港城店)",
+            "address": "丰台区光彩路京港城生活广场6楼（京深海鲜市场对面）",
+            "price": "29.9",
+            "movies": [{
+                "id": "01233",
+                "name": "全球风暴",
+                "ChangCi": [{
+                    "day": "今天",
+                    "ChangCi": [{
+                        "id": "83682",
+                        "time": "21:25",
+                        "language": "英语3D",
+                        "ting": "9号厅",
+                        "price": "34.9",
+                        "seat": [
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, "有人了", null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, "有人了", "有人了", null, null, null],
+                            [null, null, "有人了", null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null]
+
+                        ]
+                    }, {
+                        "id": "648312",
+                        "time": "22:05",
+                        "language": "英语3D",
+                        "ting": "10号厅",
+                        "price": "29.9",
+                        "seat": [
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, "有人了", null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, "有人了", "有人了", null, null, null],
+                            [null, null, "有人了", null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null]
+                        ]
+                    }]
+                }, {
+                    "day": "明天",
+                    "ChangCi": [{
+                        "id": "37282235",
+                        "time": "09:40",
+                        "language": "英语3D",
+                        "ting": "10号厅",
+                        "price": "29.9",
+                        "seat": [
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, "有人了", null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, "有人了", "有人了", null, null, null],
+                            [null, null, "有人了", null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null]
+                        ]
+                    }, {
+                        "id": "2368129",
+                        "time": "11:45",
+                        "language": "英语3D",
+                        "ting": "10号厅",
+                        "price": "29.9",
+                        "seat": [
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, "有人了", null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null],
+                            [null, null, null, null, "有人了", "有人了", null, null, null],
+                            [null, null, "有人了", null, null, null, null, null, null],
+                            [null, null, null, null, null, null, null, null, null]
+                        ]
+                    }]
+                }]
+            }, {
+                "id": "12345",
+                "name": "银翼杀手2049"
+            }, {
+                "id": "01243",
+                "name": "羞羞的铁拳"
+            }]
+        }, {
+            "id": "367953",
+            "name": "百誉朗克影城",
+            "address": "朝阳区林萃西里16号楼华创生活广场F1层",
+            "price": "50",
+            "movies": [{
+                "id": "01233",
+                "name": "全球风暴"
+            }]
+        }]
+    }
+}
